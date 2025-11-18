@@ -1,1 +1,1 @@
-# Credit-Card-fraud-Detection
+Developed a Credit Card Fraud Detection System using Machine Learning techniques to identify and prevent fraudulent transactions. The model analyzes transaction patterns and classifies activities as legitimate or suspicious. Implemented data preprocessing, feature selection, and classification algorithms to enhance prediction accuracy and system reliability
